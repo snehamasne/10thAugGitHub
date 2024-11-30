@@ -1,10 +1,9 @@
 package Sample1;
 
-public class Demo1 {
+public class Demo3 {
 
 	public static void main(String[] args) {
-		System.out.println("running demo1 class");
+			System.out.println("Demo3 class running");
 	}
 
 }
- 
